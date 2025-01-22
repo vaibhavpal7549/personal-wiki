@@ -62,7 +62,7 @@ Passionate about coding, problem-solving, and building innovative applications, 
 
 - **LinkedIn:** [Vaibhav Pal](https://linkedin.com/in/vaibhavpal7549)  
 - **GitHub:** [@vaibhavpal7549](https://github.com/vaibhavpal7549)  
-- **LeetCode:** [Diksha_Sharma098](https://www.leetcode.com/vaibhavpal7549)  
+- **LeetCode:** [vaibhavpal7549](https://www.leetcode.com/vaibhavpal7549)  
 
 ---
 
